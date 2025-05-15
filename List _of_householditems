@@ -7,3 +7,4 @@ householditems.Add("laptop");
 foreach(var u in householditems){
 console.WriteLine(u);
 }
+householditems.Add("chairs");
