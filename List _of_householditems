@@ -1,0 +1,9 @@
+List<household> householditems = new List<household>();
+householditems.Add("fridge");
+householditems.Add("Tv");
+householditems.Add("Sofa");
+householditems.Add("curtains");
+householditems.Add("laptop");
+foreach(var u in householditems){
+console.WriteLine(u);
+}
